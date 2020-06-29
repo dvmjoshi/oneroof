@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "561850519041",
+    "firebase_url": "https://oneroof-79e4b.firebaseio.com",
+    "project_id": "oneroof-79e4b",
+    "storage_bucket": "oneroof-79e4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561850519041:android:83777a117ef6d2a272fa00",
+        "android_client_info": {
+          "package_name": "com.dvmmac.oneroof"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561850519041-34hjpi7nmf51mbsntd6narg4f4i12lja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmSoWtZRcr9TWaUWnN0Q80hs9gV-hOD9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561850519041-34hjpi7nmf51mbsntd6narg4f4i12lja.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
