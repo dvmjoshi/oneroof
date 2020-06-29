@@ -22,7 +22,7 @@ One roof  is an app where you can watch and learn about all the aspects of earth
 
 1     |    2                |  3   |  4
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![](https://user-images.githubusercontent.com/24698014/86007301-d69e8480-ba34-11ea-9c2d-a59404e7f47c.png?raw=true)|![](https://user-images.githubusercontent.com/24698014/86006846-35afc980-ba34-11ea-8e98-8ef06256d7f9.png?raw=true)|![]((https://user-images.githubusercontent.com/24698014/86006951-5f68f080-ba34-11ea-9a81-17de87155ccd.png?raw=true)|![](https://user-images.githubusercontent.com/24698014/86007042-80314600-ba34-11ea-9e45-f8b65c422d49.png)|
+![](https://user-images.githubusercontent.com/24698014/86007301-d69e8480-ba34-11ea-9c2d-a59404e7f47c.png?raw=true)|![](https://user-images.githubusercontent.com/24698014/86006846-35afc980-ba34-11ea-8e98-8ef06256d7f9.png?raw=true)|![](https://user-images.githubusercontent.com/24698014/86006951-5f68f080-ba34-11ea-9a81-17de87155ccd.png?raw=true)|![](https://user-images.githubusercontent.com/24698014/86007042-80314600-ba34-11ea-9e45-f8b65c422d49.png)|
 
 ## Happy learning. :+1:
 If you found this project useful, then please consider giving it a :star: on Github and sharing it with your friends via social media.
